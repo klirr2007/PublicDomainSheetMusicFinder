@@ -1,0 +1,6 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+.DS_Store
+~$oekoakustik.pptx
