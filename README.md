@@ -15,6 +15,8 @@ PublicDomainSheetMusicFinder is a project designed to identify the works of nota
 
 ## Included Files
 
+This repository includes two TSV files: `composers.tsv` and `composers_imslp.tsv`. These files contain full data dumps based on Wikipedia data for the year 2022. `composers.tsv` includes basic information about the composers, while `composers_imslp.tsv` includes additional IMSLP links where available.
+
 This repository now includes the following notebooks alongside the original TSV files:
 - `PublicDomainSheetMusicFinder.ipynb`
 - `imslp_extract.ipynb` (New)
