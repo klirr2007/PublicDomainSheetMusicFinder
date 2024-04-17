@@ -1,4 +1,4 @@
-# PublicDomainSheetMusicFinder
+# Public Domain Sheet Music Finder
 
 ## Introduction
 
