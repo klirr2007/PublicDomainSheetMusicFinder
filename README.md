@@ -11,7 +11,7 @@ PublicDomainSheetMusicFinder is a project designed to identify the works of nota
 
 - **PublicDomainSheetMusicFinder.ipynb**: Code optimization and refactoring for improved performance and readability.
 - **imslp_extract.ipynb**: Newly added notebook to parse all available scores for a selected composer from the IMSLP database.
-- **llm_parse.ipynb**: Experimental notebook for parsing, summarizing, and answering questions about a selected composer based on their Wikipedia article. This notebook utilizes local running large language models provided in LM Studio. Tested with Mistral 7B model and 8192 token input.
+- **llm_parse_local.ipynb**: Experimental notebook for parsing, summarizing, and answering questions about a selected composer based on their Wikipedia article. This notebook utilizes local running large language models provided in LM Studio. Tested with Mistral 7B model and 8192 token input.
 
 ## Included Files
 
@@ -20,7 +20,7 @@ This repository includes two TSV files: `composers.tsv` and `composers_imslp.tsv
 This repository now includes the following notebooks alongside the original TSV files:
 - `PublicDomainSheetMusicFinder.ipynb`
 - `imslp_extract.ipynb` (New)
-- `llm_parse.ipynb` (New)
+- `llm_parse_local.ipynb` (New)
 
 ## Table of Contents
 
